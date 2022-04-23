@@ -4,6 +4,12 @@ Small website for watching movie
 ```
 git clone https://github.com/doonamm/MovieApp
 ```
+## First setup after cloning
+```
+npm install
+composer install
+```
+copy .env file to root folder
 ## Run
 ```
 php artisan serve
