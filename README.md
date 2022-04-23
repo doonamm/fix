@@ -17,4 +17,4 @@ npm run dev
 npm run watch
 ```
 ## Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?html,css,js,react,php,laravel,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,php,laravel,git)](https://skills.thijs.gg)
